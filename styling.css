@@ -1,0 +1,31 @@
+body {
+    background-image: url('images/ieeebg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+h1{color: rgb(212, 240, 214);text-align: center;
+    margin: 150px 500px 75px 100px;}
+h3{color:rgb(157, 168, 157);text-align: left;
+    margin: 75px 500px 75px 100px;}
+.box1 {
+    border: 2px solid cadetblue;
+    text-align: center;
+    padding: 10px;
+    color: cadetblue;
+    margin: 75px 500px 75px 100px;
+}
+.box2 {  
+    border: 2px dashed cadetblue;
+    text-align: center;
+    padding: 10px;
+    color: hsl(195, 5%, 85%);
+    margin: 0px 500px 75px 100px;
+}
+
+  
+
+
+
+
+    
